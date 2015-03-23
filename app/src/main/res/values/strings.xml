@@ -9,5 +9,6 @@
     <string name="pass_hint">Please enter your password</string>
     <string name="re_pass">Re-Password:</string>
     <string name="re_pass_hint">Please re-enter your password</string>
+    <string name="random">Random</string>
 
 </resources>
